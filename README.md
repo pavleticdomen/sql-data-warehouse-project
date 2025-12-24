@@ -2,8 +2,6 @@
 
 ## Project Requirements
 
----
-
 ### Building the Data Warehouse (Data Engineering)
 
 #### Objective
